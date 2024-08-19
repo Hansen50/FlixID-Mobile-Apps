@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83733981526",
+    "project_id": "flix-id-course-37cb6",
+    "storage_bucket": "flix-id-course-37cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83733981526:android:a776ca13470ae5853bcef7",
+        "android_client_info": {
+          "package_name": "com.hansenb.flix_id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkfcyRKGmR9ytYu_0QmeGLp0t_sx4mATc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
