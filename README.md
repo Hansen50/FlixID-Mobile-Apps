@@ -65,7 +65,17 @@ Menjalankan aplikasi pada perangkat Android atau emulator.
   7. Tunggu proses debug
 ```
 
-## Tampilan UI Aplikasi
+## HOME
+<img src="https://github.com/user-attachments/assets/6f4a1222-fd51-45e1-b830-a8d42ba4bb12" alt="Deskripsi Gambar" width="300" height="500">
+
+## TICKET
+<img src="https://github.com/user-attachments/assets/cd0488f5-4a44-4c03-9211-b65ad1395bde" alt="Deskripsi Gambar" width="300" height="500">
+
+## PROFILE
+<img src="https://github.com/user-attachments/assets/e64d2878-4c56-410e-8296-58943502edc5" alt="Deskripsi Gambar" width="300" height="500">
+
+## TOP UP
+<img src="https://github.com/user-attachments/assets/4789c6b5-4bf7-46b8-ba98-fcd5cfd20f8a" alt="Deskripsi Gambar" width="300" height="500">
 
     
 ## Cara Menggunakan Aplikasi
