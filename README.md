@@ -23,7 +23,7 @@ Sebuah aplikasi untuk pembelian tiket bioskop berbasis mobile untuk ios dan andr
 - Flutter
 - Dart
 - Firebase
-  
+- API TMDB
 - Real Device (debug)
 
 ## Library Used
@@ -47,6 +47,7 @@ Sebuah aplikasi untuk pembelian tiket bioskop berbasis mobile untuk ios dan andr
 - riverpod_annotation
 - Widget
 - Dart Packages
+- API (TMDB)
 
 
 ## Installation
